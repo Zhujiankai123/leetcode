@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(88_class_Solution___public______void_merge_vector_int___nums1__int_m__vector_int___nums2__int_n_____________)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(88_class_Solution___public______void_merge_vector_int___nums1__int_m__vector_int___nums2__int_n_____________ main.cpp)

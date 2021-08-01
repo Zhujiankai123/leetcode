@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/michealki/Desktop/leetcode/215_findKthLargest/SortTestHelper.h
+iostream
+-
+ctime
+-
+cassert
+-
+
+/Users/michealki/Desktop/leetcode/215_findKthLargest/main.cpp
+iostream
+-
+vector
+-
+quicksort.h
+/Users/michealki/Desktop/leetcode/215_findKthLargest/quicksort.h
+SortTestHelper.h
+/Users/michealki/Desktop/leetcode/215_findKthLargest/SortTestHelper.h
+
+/Users/michealki/Desktop/leetcode/215_findKthLargest/quicksort.h
+iostream
+-
+vector
+-
+

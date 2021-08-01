@@ -1,0 +1,3 @@
+/Users/michealki/Desktop/leetcode/1893_isCovered/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/michealki/Desktop/leetcode/1893_isCovered/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michealki/Desktop/leetcode/1893_isCovered/cmake-build-debug/CMakeFiles/1893_isCovered.dir
