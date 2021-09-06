@@ -141,5 +141,5 @@ int main() {
 //    string t = "aba";
     string res = Solution().minWindow(s,t);
     cout<<res;
-
+    cout<<endl;
 }
